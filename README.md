@@ -1,4 +1,4 @@
 # youtube_notes
-LLMs for video transcripts processing
+LLMs for audio transcripts processing
 
-Take notes from any Youtube video with just url with OpenAI's Whisper model
+Generating real time transcripts for any audio or video calls using OpanAI's Whisper model, no limits in the length of the call. OpenAI's Whsiper model doesn’t allow real time speech to text recognition yet, I adapted the model to allow real time speech recognition.
