@@ -1,4 +1,4 @@
-# youtube_notes
-LLMs for audio transcripts processing
+# audio_notes
+RNNs for audio transcripts processing
 
-Generating real time transcripts for any audio or video calls using OpanAI's Whisper model, no limits in the length of the call. OpenAI's Whsiper model doesn’t allow real time speech to text recognition yet, I adapted the model to allow real time speech recognition.
+Speech recognition using RNN. Although transformer is popular with speech recognition, other model strustures have their advantages especially in deployment in production. This is a sample of RNN model for speech recognition, with word error count of 16%. With more data and further fine-tuning, it has potential to on par with Transformer models. 
